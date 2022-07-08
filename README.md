@@ -1,4 +1,4 @@
-# Int_breweries_analysis
+# International Breweries Market Analysis
 ### [Project 1: Analysis of the international breweries sales data using ***PostgreSQL***](https://github.com/Gbemeegar/International_breweries_analysis)
 
 ![](/Images/beer.jpg)
