@@ -4,6 +4,6 @@
 ![](/Images/beer.jpg)
 
 
-Using the company's records, I did analysis of the company's products, profit, sales and cost over a period of 3 yeaars for profit maximization and cost minimization, while giving answers to critical business question.
+Using the company's records, I analysed the brands, profit, sales and cost over a period of 3 years for profit maximization and cost minimization, while giving answers to critical business question.
 
 ![](/Images/brew.jpg)
